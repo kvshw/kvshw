@@ -116,30 +116,30 @@ Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a lo
   &nbsp
   &nbsp
    &nbsp
-  &nbsp
+<!--   &nbsp
    &nbsp
-  &nbsp
+  &nbsp -->
     <img src="https://i.imgur.com/gAMbAcH.png" height="35"/>
  &nbsp
   &nbsp
    &nbsp
-  &nbsp
+<!--   &nbsp
    &nbsp
-  &nbsp
+  &nbsp -->
     <img src="https://i.imgur.com/0femR0g.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
-  &nbsp
+<!--   &nbsp
    &nbsp
-  &nbsp
+  &nbsp -->
     <img src="https://i.imgur.com/J4fmOVR.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
-  &nbsp
+<!--   &nbsp
    &nbsp
-  &nbsp
+  &nbsp -->
     <img src="https://i.imgur.com/5ZNR8kE.png" height="35"/>
   &nbsp
   &nbsp
