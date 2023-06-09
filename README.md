@@ -1,6 +1,6 @@
 <!-- # Hi there, I'm Kavishwa(kvshw)! 👋 -->
 
-<img src="https://i.imgur.com/GRmlJ3m.png" width="100%">
+<img src="https://i.imgur.com/lWlvZuk.png" width="100%">
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvshw&layout=compact) -->
 
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-Hello, I'm Kavishwa, a passionate full stack developer with a love for creating innovative and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
+Hello, I'm Kavishwa👋, a passionate full stack developer with a love for creating innovative and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
 
 
 <h1 align="center">Projects</h1>
