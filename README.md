@@ -6,13 +6,19 @@
 
 <p align="center">
   <a href="https://kvshw.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://i.imgur.com/wp6sTMY.png" width="150"/>
   </a>
+  &nbsp
+  &nbsp
+  &nbsp
   <a href="https://www.linkedin.com/in/kavishwa-wendakoon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://i.imgur.com/2jtFFcl.png" width="150"/>
   </a>
+  &nbsp
+  &nbsp
+  &nbsp
   <a href="https://twitter.com/kvshw_" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://i.imgur.com/MRoPQ0A.png" width="150"/>
   </a>
 </p>
 
@@ -33,10 +39,12 @@ Hello, I'm Kavishwa, a passionate full stack developer with a love for creating 
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
   </a>  
+          &nbsp
+          &nbsp
   <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
@@ -51,10 +59,10 @@ Hello, I'm Kavishwa, a passionate full stack developer with a love for creating 
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
   </a>
       </p>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
@@ -71,10 +79,10 @@ Hello, I'm Kavishwa, a passionate full stack developer with a love for creating 
       <br />
         <p align="center">
   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
@@ -89,10 +97,10 @@ Hello, I'm Kavishwa, a passionate full stack developer with a love for creating 
         <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
   </a>
   <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
