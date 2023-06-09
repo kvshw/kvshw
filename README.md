@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://kvshw.com/" target="_blank">
-    <img src="https://i.imgur.com/wp6sTMY.png" width="150"/>
+    <img src="https://i.imgur.com/wp6sTMY.png" width="150" target="_blank"/>
   </a>
   &nbsp
   &nbsp
