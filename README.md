@@ -41,8 +41,7 @@ Hello, I'm Kavishwa, a passionate full stack developer with a love for creating 
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
   </a>  
-          &nbsp
-          &nbsp
+          
   <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
   </a>
