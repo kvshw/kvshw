@@ -6,26 +6,26 @@
 
 <p align="center">
   <a href="https://kvshw.com/" target="_blank">
-    <img src="https://i.imgur.com/wp6sTMY.png" width="150" target="_blank"/>
+    <img src="https://i.imgur.com/iz81Cqx.png" width="150" target="_blank"/>
   </a>
   &nbsp
   &nbsp
   &nbsp
   <a href="https://www.linkedin.com/in/kavishwa-wendakoon/" target="_blank">
-    <img src="https://i.imgur.com/2jtFFcl.png" width="150"/>
+    <img src="https://i.imgur.com/7Zxhwli.png" width="150"/>
   </a>
   &nbsp
   &nbsp
   &nbsp
   <a href="https://twitter.com/kvshw_" target="_blank">
-    <img src="https://i.imgur.com/MRoPQ0A.png" width="150"/>
+    <img src="https://i.imgur.com/KxshKaP.png" width="150"/>
   </a>
 </p>
 
-Hello, I'm Kavishwa👋, a passionate full stack developer with a love for creating innovative and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
+Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a love ♥️ for creating innovative and user-centric web applications. With a strong foundation ⛰️ in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
 
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -105,73 +105,79 @@ Hello, I'm Kavishwa👋, a passionate full stack developer with a love for creat
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <h1 align="center">Technologies</h1>
 
 
 <p align="center">
-    <img src="https://i.imgur.com/28t5VSl.png" height="40"/>
+    <img src="https://i.imgur.com/28t5VSl.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/gAMbAcH.png" height="40"/>
+    <img src="https://i.imgur.com/gAMbAcH.png" height="35"/>
  &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/0femR0g.png" height="40"/>
+    <img src="https://i.imgur.com/0femR0g.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/J4fmOVR.png" height="40"/>
+    <img src="https://i.imgur.com/J4fmOVR.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/5ZNR8kE.png" height="40"/>
+    <img src="https://i.imgur.com/5ZNR8kE.png" height="35"/>
   &nbsp
   &nbsp
-    <img src="https://i.imgur.com/ftmpA3y.png" height="40"/>
+   &nbsp
+<!--   &nbsp -->
+  <img src="https://i.imgur.com/v0MSAQx.png" height="35"/>
+   &nbsp
+   &nbsp
+<!--   &nbsp -->
+    <img src="https://i.imgur.com/ftmpA3y.png" height="35"/>
  &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/SFwN29W.png" height="40"/>
+    <img src="https://i.imgur.com/SFwN29W.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/5RW0CV3.png" height="40"/>
+    <img src="https://i.imgur.com/5RW0CV3.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/YHT58Ey.png" height="40"/>
+    <img src="https://i.imgur.com/YHT58Ey.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
   &nbsp
    &nbsp
   &nbsp
-    <img src="https://i.imgur.com/iqDWXmC.png" height="40"/>
+    <img src="https://i.imgur.com/iqDWXmC.png" height="35"/>
   
 </p>
 
