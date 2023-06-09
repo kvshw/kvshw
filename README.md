@@ -14,17 +14,9 @@
   <a href="https://twitter.com/kvshw_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
-
-See [my website](https://shawncharles.com) for more information!
+Hello, I'm Kavishwa, a passionate full stack developer with a love for creating innovative and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
 
 
 <h1 align="center">Projects</h1>
