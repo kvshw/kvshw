@@ -140,7 +140,12 @@ Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a lo
 <!--   &nbsp
    &nbsp
   &nbsp -->
-    <img src="https://i.imgur.com/5ZNR8kE.png" height="35"/>
+    <img src="https://i.imgur.com/u1EAl0y.png" height="35"/>
+  &nbsp
+  &nbsp
+   &nbsp
+  
+  <img src="https://i.imgur.com/5ZNR8kE.png" height="35"/>
   &nbsp
   &nbsp
    &nbsp
