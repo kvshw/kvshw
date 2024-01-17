@@ -26,12 +26,7 @@ Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a lo
 <div align="center">
 <h1 align="center">Projects</h1>
 <td width="50%" valign="top">
-      <h3 align="center">Luminaire</h3>
-        <br />
-
       
-
-
           
   <a href="https://github.com/kvshw/luminaire" target="_blank">
     <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
