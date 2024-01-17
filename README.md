@@ -23,22 +23,7 @@
 </p>
 
 Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a love ♥️ for creating innovative and user-centric web applications. With a strong foundation ⛰️ in both front-end and back-end technologies, I strive to craft seamless and engaging digital experiences.
-<div align="center">
-<h1 align="center">Projects</h1>
-<td width="50%" valign="top">
-      
-          
-  <a href="https://github.com/kvshw/luminaire" target="_blank">
-    <img src="https://i.imgur.com/iDWvUCo.png" width="100"/>
-  </a>  
-         
-  <a href="https://luminaire-kvshw.netlify.app/" target="_blank">
-    <img src="https://i.imgur.com/SwlRZHC.png" width="100"/>
-  </a>
-      </p>
-        <p><strong>React JS, Javascript, Tailwind, HTML</strong> - Light sliders are working according to plan.</p>
-    </td>
-</div>
+
 
 <!-- <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
