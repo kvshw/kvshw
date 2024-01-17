@@ -30,7 +30,7 @@ Hello, I'm Kavishwa👋, a passionate full stack developer 👨‍💻 with a lo
         <br />
 
       
-![luminaire](https://github.com/kvshw/kvshw/assets/72031490/fccb429f-9d9b-43cb-ac69-dba3071988ae)
+
 
           
   <a href="https://github.com/kvshw/luminaire" target="_blank">
